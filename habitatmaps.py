@@ -30,7 +30,7 @@ with open(calc_txt, "r") as f:
         if numbers:
             values_dict[key] = numbers
 
-print("\n📘 Loaded value lists:")
+print("\n Loaded value lists:")
 for k, v in values_dict.items():
     print(f"  • {k}: {v}")
 
@@ -38,13 +38,13 @@ rasterA_files = list(rasterA_folder.glob("*.tif"))
 if not rasterA_files:
     raise FileNotFoundError("No .tif!")
 rasterA_path = rasterA_files[0]
-print(f"\n📁 Using rasterA: {rasterA_path.name}")
+print(f"\n Using rasterA: {rasterA_path.name}")
 
 shapefiles = list(shapefile_folder.glob("*.shp"))
 if not shapefiles:
     raise FileNotFoundError("No shapefiles")
 
-print("\n📁 Found shapefiles:")
+print("\n Found shapefiles:")
 for s in shapefiles:
     print("  •", s.stem)
 
@@ -155,3 +155,4 @@ for i in range(wait_time, 0, -1):
 file2_path = os.path.join(os.path.dirname(__file__), r"F:\altitudes.py")
 subprocess.run([sys.executable, file2_path])
 print("Altitudes executed!")
+
