@@ -23,13 +23,16 @@ App version 0.1, the app still Beta. It's still under maintenance.
 
 <h3>Desktop requirements</h3>
 <div>Desktop version: Windows xp/10/11 </div>
-<div> Ram: 2 GB</div>
+<div> RAM: 2 GB</div>
 <div> CPU: 1.0 GHZ </div>
 <div> GPU: 512 MB </div>
+<div> Disk Space: 2GB </div>
 
 <h3>Android requirements</h3>
 <div>Android version: Android 3 or superior </div>
+<div> RAM: 1 GB</div>
 <div>Processor: Snapdragon 820 or related</div>
+<div>Space: 1GB</div>
 Satellite geolocation and internet connection are required.
 
 
