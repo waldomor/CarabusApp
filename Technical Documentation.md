@@ -4,7 +4,7 @@
 <div>Desktop version: Windows xp/10/11 </div>
 <div>Android version: Android 3 or superior </div>
 
-#Desktop requirements
+Desktop requirements
 <div> Ram: 2 GB</div>
 <div> Cpu: 1.0 GHZ </div>
 <div> GPU: 512 MB </div>
