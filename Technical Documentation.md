@@ -1,3 +1,5 @@
+<h3>This repository contains minimal documentation. The complete technical documentation is maintained separately and can be accessed at the link provided</h3>
+
 <h3>Desktop Versions architecture, installation and limitations</h3>
 Python version 3.14.
 Major libraries (Chardet, GDAL, Geopandas, Keras , OpenCV, NumPy,
