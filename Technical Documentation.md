@@ -24,7 +24,7 @@ App version 0.1, the app still Beta. It's still under maintenance.
 <h3>Desktop requirements</h3>
 <div>Desktop version: Windows xp/10/11 </div>
 <div> Ram: 2 GB</div>
-<div> Cpu: 1.0 GHZ </div>
+<div> CPU: 1.0 GHZ </div>
 <div> GPU: 512 MB </div>
 
 <h3>Android requirements</h3>
