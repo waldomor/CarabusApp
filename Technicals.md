@@ -4,9 +4,9 @@
 <div>Android version: Android 3 or superior </div>
 
 #Desktop requirements
-Ram: 2 GB
-Cpu: 1.0 GHZ
-GPU: 512 MB
+<div> Ram: 2 GB</div>
+<div> Cpu: 1.0 GHZ </div>
+<div> GPU: 512 MB </div>
 
 #Development
 
