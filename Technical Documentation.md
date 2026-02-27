@@ -4,7 +4,6 @@
 Python version 3.14.
 Major libraries (Chardet, GDAL, Geopandas, Keras , OpenCV, NumPy,
 Pandas, Pymc, Pyproj, Pytest, Rasterio, SciPy, Tkinter, Tqdm).
-Internet connection is required.
 The application is portable. No installation is required, simply download and
 run the executable file.
 <div>App version 3.1, the app still Beta. </div>
@@ -27,6 +26,7 @@ App version 0.1, the app still Beta. It's still under maintenance.
 <div> CPU: 1.0 GHZ </div>
 <div> GPU: 512 MB </div>
 <div> Disk Space: 2GB </div>
+<div> Internet connection is required. </div>
 
 <h3>Android requirements</h3>
 <div>Android version: Android 3 or superior </div>
