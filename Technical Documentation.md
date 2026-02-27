@@ -15,4 +15,7 @@ The app for desktop is made used Python and Python libraries,
 it s enough just to download the app, installation is not required.
 The app still Beta, major issues were fixed though.
 
+Version 3
+SHA256   BC75CE5566675428F2E8D9B3500600C175EC4F019C06CE56518751001C352541 
+
 The app for android is made used Kotlin, it's still Beta.
