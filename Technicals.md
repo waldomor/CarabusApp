@@ -1,7 +1,7 @@
 
 #Versions
 
-Desktop version: Windows xp/10/11
+Desktop version: Windows xp/10/11 \n
 Android version: Android 3 or superior
 
 #Desktop requirements
