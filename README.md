@@ -5,5 +5,5 @@
 <div href="https://vladimirocvalgiusti.com/app/login.php"> https://vladimirocvalgiusti.com/app/login.php </div>
 
   
-<div>password is the _C._ author name, date</div> 
+<div>password is the <i>C.</i> author name, date</div> 
 
