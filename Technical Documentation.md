@@ -8,7 +8,7 @@ The application is portable. No installation is required, simply download and
 run the executable file.
 <div>App version 3.1, the app still Beta. </div>
 <div>While major stability issues have been resolved, minor bugs may still occur.</div>
-
+<a href="https://drive.google.com/file/d/1JsUH-deudBkNFLoOtVltIqb7nonzWWmz/view?usp=drive_link">here's a preview of some functionalities</a>
 
 <h3>Android Versions architecture, installation and limitations</h3>
 Kotlin version 2.1.20
