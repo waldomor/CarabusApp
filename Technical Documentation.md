@@ -15,7 +15,7 @@ Kotlin version 2.1.20
 Application is developed using Android studio 2025.3.1
 Java OpenJDK 25.0.2
 Satellite geolocation and internet connection are required.
-The application is portable. Installation is required.
+Installation is required.
 App version 0.1, the app still Beta. It's still under maintenance. 
 
 
